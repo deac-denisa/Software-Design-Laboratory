@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vacations>
+    <vacation>
+        <id>1</id>
+        <name>Caribbean Cruise 2</name>
+        <type>CRUISE</type>
+        <description>Cruise through the beautiful Caribbean islands 2</description>
+        <location>Caribbean</location>
+        <price>200</price>
+        <availableSeats>300</availableSeats>
+        <dtype>Cruise</dtype>
+    </vacation>
+    <vacation>
+        <id>3</id>
+        <name>Safari 2</name>
+        <type>STAY</type>
+        <description>Safari descr 2</description>
+        <location>Safari</location>
+        <price>400</price>
+        <availableSeats>300</availableSeats>
+        <dtype>Stay</dtype>
+    </vacation>
+    <vacation>
+        <name>New Stay 2</name>
+        <type>STAY</type>
+        <description>new Stay</description>
+        <location>Olanda</location>
+        <price>400</price>
+        <availableSeats>300</availableSeats>
+        <dtype>Stay</dtype>
+    </vacation>
+</vacations>

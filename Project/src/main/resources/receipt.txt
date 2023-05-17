@@ -1,0 +1,16 @@
+Reservation Receipt
+-----------------------
+Reservation ID: 3
+CLIENT DATA ----------------------- :
+Client ID: 4
+Client Name: Grad Ionut
+Client Email: gradionut.2001@gmail.com
+VACATION DATA ---------------------:
+Vacation ID: 2
+Vacation Type: STAY
+Vacation Name: Safari Adventure
+Vacation Description: Experience the African wilderness on a thrilling safari
+Location: Africa
+Start Date: 2023-06-01
+End Date: 2023-06-08
+Price: 2000.0

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clients>
+    <client>
+        <id>3</id>
+        <fullName>Alice Lee 2</fullName>
+        <email>alice.lee@example.com</email>
+        <password>7c6a180b36896a0a8c02787eeafb0e4c</password>
+        <dtype>Client</dtype>
+    </client>
+    <client>
+        <id>4</id>
+        <fullName>Grad Ionut 2</fullName>
+        <email>gradionut.2001@gmail.com</email>
+        <password>7c6a180b36896a0a8c02787eeafb0e4c</password>
+        <dtype>Client</dtype>
+    </client>
+    <client>
+        <fullName>Denisa Deac</fullName>
+        <email>denisa.2001@gmail.com</email>
+        <password>7c6a180b36896a0a8c02787eeafb0e4c</password>
+        <dtype>Client</dtype>
+    </client>
+</clients>
